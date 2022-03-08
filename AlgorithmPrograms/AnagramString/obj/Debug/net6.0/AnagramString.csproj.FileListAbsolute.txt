@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\bin\Debug\net6.0\AnagramString.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\bin\Debug\net6.0\AnagramString.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\bin\Debug\net6.0\AnagramString.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\bin\Debug\net6.0\AnagramString.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\bin\Debug\net6.0\AnagramString.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\refint\AnagramString.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\AnagramString.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\Day-16&17\AlgorithmPrograms\AnagramString\obj\Debug\net6.0\ref\AnagramString.dll
